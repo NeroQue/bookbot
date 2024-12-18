@@ -1,1 +1,1 @@
-BookBot is a project I made while refreshing my python knowledge.
+BookBot is a project I made while refreshing my python knowledge. my first project
